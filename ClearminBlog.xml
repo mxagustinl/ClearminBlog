@@ -10,7 +10,7 @@
     <link href='http://inc2.agusti.ml/tema/css/small-n-flat.css' rel='stylesheet' type='text/css'/>
     <link href='http://inc2.agusti.ml/tema/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
     <title>
-      Galletas Caseras
+      ClearminBlog
     </title>
     <b:skin><![CDATA[
       
@@ -72,7 +72,7 @@
         <div class='btn btn-primary md-menu-white hidden-md hidden-lg' data-toggle='cm-menu'/>
         <div class='cm-flex'>
           <h1>
-            Pedidos: 3131097878
+            ClearminBlog
           </h1>
         </div>
       </nav>
